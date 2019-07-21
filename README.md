@@ -1,6 +1,6 @@
 # flutter_ui
 [tab_controller](https://github.com/zhongxuan123/flutter_ui/blob/master/lib/tabcontroller.dart)
- ![https://raw.githubusercontent.com/zhongxuan123/flutter_ui/master/image/tabcontroller_ui.jpg]
+ ![tab_controller](https://raw.githubusercontent.com/zhongxuan123/flutter_ui/master/image/tabcontroller_ui.jpg)
 
 
 
